@@ -1,2 +1,3 @@
-# Intro-to-Statistical-Learning
-Working through Introduction to Statistical Learning Textbook to improve data science foundation and R programming
+# Data Science Foundation
+
+Working through exercises to improve data science foundational skills 
