@@ -1,5 +1,3 @@
-### Chapter 2.4 Exercises
-
 ### College Data
 # Setting working directory
 setwd("C:/Users/Spencer/Documents/Data Science/Intro to Statistical Learning")
